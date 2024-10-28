@@ -9,22 +9,22 @@ spring:
       client:
         registration:
           okta:
-            client-id: 0oaelmlp257UsfKFh5d7
-            client-secret: IO7GMtpq6o7RMflX8HIp-KX06zjg9qwbj2j13F7CmEp03DJi1PQ-uLiLqqOtc9Ps
+            client-id:
+            client-secret:
             scope: openid, profile, email
           entra-id:
-            client-id: 3e9eced8-0b9d-4027-99fe-f986994aba8b
-            client-secret: wxM8Q~SVxZnjHk._Xt480jiEf8pLbbKQHVIEcaWw
+            client-id:
+            client-secret:
             scope: openid, profile, email
           github:
-            client-id: Ov23liHG1MviTDWXrFtW
-            client-secret: 582787d51e144924ca9a5811a04973f95bef560a
+            client-id:
+            client-secret:
             scope:
               - user:email
               - read:user
           google:
-            client-id: 111831778930-9nro5mhqm91l3mkc08kh5ng9dpa2pfkv.apps.googleusercontent.com
-            client-secret: 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
+            client-id:
+            client-secret:
             scope:
               - openid
               - profile
