@@ -3,4 +3,4 @@ gg:
     development-mode: true
 spring:
   application:
-    name: app-jte
+    name: spring-jte
